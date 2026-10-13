@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.open-next/
+.wrangler/
+out/
+coverage/
+.env
+.env*.local
+.dev.vars
+*.log
+.DS_Store
+supabase/.temp/
